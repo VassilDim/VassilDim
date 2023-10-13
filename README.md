@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Vassil, </h1>
-<h3 align="center">A passionate data scientist with extensive research experience</h3>
+<h3 align="center">A data scientist with extensive research experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vassildim&label=Profile%20views&color=0e75b6&style=flat" alt="vassildim" /> </p>
 
-- 🔭 I’m currently working on [Predicting Diabetes From Medical Records](https://github.com/VassilDim/Prediabetes_MedRecords_RNN)
+- 💼 As part of a Virtual Data Analyst Internship with KPMG, I’m currently working on predicting prospective high-value customers that can be approached based on data on existing customers and demographics [KPMG internship](https://github.com/VassilDim/KPMG_internship).
+- 💼 I am also building models/apps aiming to predict youtube trolls/bots based on comment NLP, sentiment and network analysis [youtube trolls](https://github.com/VassilDim/TrollDetect).
+- 💼 I am employing RNN/LSTM ensemble models to predict chronic condition incidence based on synthetic medical records and deploy an **AI Physician** app online [chronic disease predictor](https://github.com/VassilDim/Prediabetes_MedRecords_RNN).
 
-- 🌱 I’m currently learning **Streamlit, Cybersecurity**
+- ✅ I have optimized ensemble LSTM models for predicting stock prices and deployed them online as an app. DISCLAIMER: FOR TRAINING PURPOSES ONLY! NOT A FINANCIAL ADVICE! [stocks app](https://stocksapp-vd-fcel.streamlit.app/), [stocks models](https://github.com/VassilDim/Stocks)
+- ✅ I have created a number of predictive models for prediabetes using healthcare records as input. [prediabetes prediction](https://github.com/VassilDim/Prediabetes_Prediction_From_MedRecords)
 
-- 👯 I’m looking to collaborate on [Twitter Troll Detection](https://github.com/VassilDim/TwitterTrollDetect)
+- 🌱 I’m currently learning **Power BI, Docker, Cybersecurity**
 
-- 🤝 I’m looking for help with [Predicting Stock Prices](https://github.com/VassilDim/Stocks)
+- 🤝 I’m looking to collaborate on any predictive, inferrential models or generative AI initiatives in the field of healthcare including marketing, logistics, pre-clinical studies, clinical studies management, infrastructure and cybersecurity.
 
-- 💬 Ask me about **Machine Learning and Deep Learning Concepts, R, Python, Molecular Biology, Immunology, Genomics**
+-  👯 I’m looking for help with deployment of models and integrating them into apps.
+
+- 💬 Ask me about **Machine Learning and Deep Learning, Visualization, SQL, R, Python, Molecular Biology, Immunology, Genomics**
 
 - 📫 How to reach me **vasssildimitrov@gmail.com**
 
